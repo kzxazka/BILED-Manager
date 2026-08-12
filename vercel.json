@@ -31,5 +31,6 @@
         "CACHE_STORE": "database",
         "SESSION_DRIVER": "cookie",
         "LOG_CHANNEL": "stderr"
-    }
+    },
+    "outputDirectory": "public"
 }
